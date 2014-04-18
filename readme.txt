@@ -7,7 +7,7 @@ Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will help you convert your forum posts, threads, categories, users and tags from the vBulletin forum to bbPress plugin literally in minutes.
+This plugin will help you convert your forum posts, threads, categories, users and tags from the vBulletin forum to bbPress plugin in minutes.
 
 == Description ==
 
