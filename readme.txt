@@ -1,6 +1,6 @@
 ﻿=== CMS2CMS: Automated vBulletin to bbPress Migrator  ===
 Contributors: cms2cms
-Tags: vbulletin to bbpress, vbulletin to bbpress mirgation, convert vbulletin to bbpress, migrate vbulletin to bbpress
+Tags: vbulletin to bbpress, vbulletin to bbpress migration, convert vbulletin to bbpress, migrate vbulletin to bbpress, vbulletin, bbpress
 Requires at least: 3.0.0
 Tested up to: 3.8
 Stable tag: 3.6.2
