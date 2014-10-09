@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: vbulletin to bbpress, vbulletin to bbpress migration, convert vbulletin to bbpress, migrate vbulletin to bbpress, vbulletin, bbPress migration
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -14,7 +14,7 @@ This plugin will help you convert your forum posts, threads, categories, users a
 = This plugin will help you convert your forum posts, threads, categories, users and tags from the vBulletin forum to bbPress plugin literally in minutes. As an option, this plugin can also migrate forum images to bbPress. =
 
 * *There is Free Demo available (migration of limited number of threads, users, posts).*
-* *Full Migration starts from $39.*
+* *Full Migration starts from $49.*
 
 = Video =
 [youtube https://www.youtube.com/watch?v=ANHsOaGvlBs]
