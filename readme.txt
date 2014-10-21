@@ -39,7 +39,7 @@ This plugin will help you convert your forum posts, threads, categories, users a
 
 **Website design (styles, themes) isn’t migrated.**
 
-For more information follow this link: http://www.cms2cms.com/supported-cms/vbulletin-to-bb-press-migration/
+For more information follow this link: http://www.cms2cms.com/supported-cms/vbulletin-to-wordpress-migration/?utm_source=vBulletin&utm_medium=Link&utm_campaign=WordPress_plugins
 
 == Installation ==
 
