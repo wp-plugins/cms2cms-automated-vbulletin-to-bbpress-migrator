@@ -14,7 +14,7 @@ This plugin will help you convert your forum posts, threads, categories, users a
 = This plugin will help you convert your forum posts, threads, categories, users and tags from the vBulletin forum to bbPress plugin literally in minutes. As an option, this plugin can also migrate forum images to bbPress. =
 
 * *There is Free Demo available (migration of limited number of threads, users, posts).*
-* *Full Migration starts from $49.*
+* *Full Migration starts from $39.*
 
 = Video =
 [youtube https://www.youtube.com/watch?v=ANHsOaGvlBs]
